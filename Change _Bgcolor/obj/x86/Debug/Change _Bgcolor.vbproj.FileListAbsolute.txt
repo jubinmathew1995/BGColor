@@ -1,0 +1,18 @@
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.exe
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.pdb
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.xml
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change__Bgcolor.Form1.resources
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change__Bgcolor.Resources.resources
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.vbproj.GenerateResource.Cache
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.exe
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.xml
+c:\users\jubin\documents\visual studio 2010\Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.pdb
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.exe
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.xml
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.pdb
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.exe
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.pdb
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\bin\Debug\Change _Bgcolor.xml
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change__Bgcolor.Form1.resources
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change__Bgcolor.Resources.resources
+C:\Users\jubin\Desktop\Visual Basics Projects\Change _Bgcolor\Change _Bgcolor\obj\x86\Debug\Change _Bgcolor.vbproj.GenerateResource.Cache
